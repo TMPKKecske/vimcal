@@ -11,7 +11,7 @@ I tried to make everything as VIM-like as possible, so if you are familiar with 
 - There is a monthly view as well
 ## Installation
 
-This project is not yet available in the AUR, for now, you can build and install it from source. I think I will test this app for a week or two before I'll release it pubi The instructions below assume you have Git, Rust, and Cargo installed.
+This project is not yet available in the AUR, for now, you can build and install it from source. I think I will test this app for a week or two before I'll release it pubically. The instructions below assume you have Git, Rust, and Cargo installed.
 
 ### Steps to install on linux:
 
