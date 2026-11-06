@@ -1,0 +1,18 @@
+[package]
+name = "vimcal"
+version = "0.6.0"
+edition = "2021"
+description = "A Vim-style TUI calendar with Vim text inputs, recurring series, multiple calendars, and ICS import/export"
+license = "MIT"
+
+[dependencies]
+anyhow = "1"
+chrono = { version = "0.4", features = ["serde", "clock"] }
+chrono-tz = "0.10"
+crossterm = "0.28"
+ical = "0.11"
+ratatui = "0.29"
+rrule = "0.14"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+uuid = { version = "1", features = ["v4"] }
