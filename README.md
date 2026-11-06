@@ -9,6 +9,7 @@ I tried to make everything as VIM-like as possible, so if you are familiar with 
 - You can use VISUAL mode to select the duration of your desired event
 - Use "/" to search between events
 - There is a monthly view as well
+- and so much more, go play with it!
 ## Installation
 
 This project is not yet available in the AUR, for now, you can build and install it from source. I think I will test this app for a week or two before I'll release it pubically. The instructions below assume you have Git, Rust, and Cargo installed.
