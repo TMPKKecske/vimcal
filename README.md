@@ -4,7 +4,7 @@ This is a calendar app that uses VIM shortucts, it super fast to use, has a shor
 ## USAGE
 I tried to make everything as VIM-like as possible, so if you are familiar with it you shouldn't have any issues. If you get confused with using Vimcal press "?" for help.
 ## Cool features
-- Vimcal has .ics support, you can import and export calendars (Exporting can be done with ``` vimcal export all``` or ``` vimcal export <calendar name>```)
+- Vimcal has .ics support, you can import and export calendars (Exporting can be done with ``` vimcal export all``` or ```vimcal export <calendar name>```)
 - There is multiple calendar support and you can even give custom colors to them in HEX
 - You can use VISUAL mode to select the duration of your desired event
 - Use "/" to search between events
